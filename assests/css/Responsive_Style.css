@@ -1,0 +1,13 @@
+
+@media all and (min-width: 0px) and (max-width: 320px){
+    main>nav                        {
+        position: absolute;
+        left: 50vw;
+        font-family: "Baskerville Old Face";
+        font-size: 40px;
+        color: #E3E3E3;
+        border: none;
+        top: 0;
+        animation: 3s heading infinite alternate;
+    }
+}
